@@ -1,0 +1,5 @@
+# Archivos de configuración de Firebase y Node
+firebase-debug.log
+.DS_Store
+.firebaserc
+/node_modules
